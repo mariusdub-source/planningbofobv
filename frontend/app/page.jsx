@@ -1,0 +1,14 @@
+export default function Home() {
+  return (
+    <main style={{padding:40,fontFamily:'Arial'}}>
+      <h1>MetaFlight AI ✈️</h1>
+      <p>Comparateur intelligent de vols.</p>
+
+      <div style={{marginTop:20}}>
+        <input placeholder="Départ" />
+        <input placeholder="Destination" />
+        <button>Rechercher</button>
+      </div>
+    </main>
+  )
+}

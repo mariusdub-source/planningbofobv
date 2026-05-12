@@ -1,0 +1,12 @@
+[
+  {
+    "city": "Paris",
+    "airport": "Charles-de-Gaulle",
+    "iata": "CDG"
+  },
+  {
+    "city": "Nice",
+    "airport": "Nice Côte d'Azur",
+    "iata": "NCE"
+  }
+]
